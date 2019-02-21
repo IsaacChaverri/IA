@@ -1,0 +1,11 @@
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\CrearGrafo\CrearGrafo\obj\Debug\netcoreapp2.1\CrearGrafo.csprojAssemblyReference.cache
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\CrearGrafo\CrearGrafo\obj\Debug\netcoreapp2.1\CrearGrafo.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\CrearGrafo\CrearGrafo\obj\Debug\netcoreapp2.1\CrearGrafo.AssemblyInfoInputs.cache
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\CrearGrafo\CrearGrafo\obj\Debug\netcoreapp2.1\CrearGrafo.AssemblyInfo.cs
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\CrearGrafo\CrearGrafo\bin\Debug\netcoreapp2.1\CrearGrafo.deps.json
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\CrearGrafo\CrearGrafo\bin\Debug\netcoreapp2.1\CrearGrafo.runtimeconfig.json
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\CrearGrafo\CrearGrafo\bin\Debug\netcoreapp2.1\CrearGrafo.runtimeconfig.dev.json
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\CrearGrafo\CrearGrafo\bin\Debug\netcoreapp2.1\CrearGrafo.dll
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\CrearGrafo\CrearGrafo\bin\Debug\netcoreapp2.1\CrearGrafo.pdb
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\CrearGrafo\CrearGrafo\obj\Debug\netcoreapp2.1\CrearGrafo.dll
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\CrearGrafo\CrearGrafo\obj\Debug\netcoreapp2.1\CrearGrafo.pdb
