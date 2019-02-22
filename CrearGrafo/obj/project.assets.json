@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Isaac\\Desktop\\Cosas-De-La-U\\Semestre XIII\\Inteligencia Artificial\\Tareas\\Tareas 3 y 4\\CrearGrafo\\CrearGrafo\\CrearGrafo.csproj",
+      "projectUniqueName": "C:\\Users\\Isaac\\Desktop\\Cosas-De-La-U\\Semestre XIII\\Inteligencia Artificial\\Tareas\\Tareas 3 y 4\\IA\\CrearGrafo\\CrearGrafo.csproj",
       "projectName": "CrearGrafo",
-      "projectPath": "C:\\Users\\Isaac\\Desktop\\Cosas-De-La-U\\Semestre XIII\\Inteligencia Artificial\\Tareas\\Tareas 3 y 4\\CrearGrafo\\CrearGrafo\\CrearGrafo.csproj",
+      "projectPath": "C:\\Users\\Isaac\\Desktop\\Cosas-De-La-U\\Semestre XIII\\Inteligencia Artificial\\Tareas\\Tareas 3 y 4\\IA\\CrearGrafo\\CrearGrafo.csproj",
       "packagesPath": "C:\\Users\\Isaac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Isaac\\Desktop\\Cosas-De-La-U\\Semestre XIII\\Inteligencia Artificial\\Tareas\\Tareas 3 y 4\\CrearGrafo\\CrearGrafo\\obj\\",
+      "outputPath": "C:\\Users\\Isaac\\Desktop\\Cosas-De-La-U\\Semestre XIII\\Inteligencia Artificial\\Tareas\\Tareas 3 y 4\\IA\\CrearGrafo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
