@@ -20,3 +20,14 @@ C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tarea
 C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\IA\CrearGrafo\obj\Debug\netcoreapp2.1\CrearGrafo.AssemblyInfo.cs
 C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\IA\CrearGrafo\obj\Debug\netcoreapp2.1\CrearGrafo.dll
 C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\IA\CrearGrafo\obj\Debug\netcoreapp2.1\CrearGrafo.pdb
+E:\IA\IsaacChaverri\IA\CrearGrafo\bin\Debug\netcoreapp2.1\CrearGrafo.deps.json
+E:\IA\IsaacChaverri\IA\CrearGrafo\bin\Debug\netcoreapp2.1\CrearGrafo.runtimeconfig.json
+E:\IA\IsaacChaverri\IA\CrearGrafo\bin\Debug\netcoreapp2.1\CrearGrafo.runtimeconfig.dev.json
+E:\IA\IsaacChaverri\IA\CrearGrafo\bin\Debug\netcoreapp2.1\CrearGrafo.dll
+E:\IA\IsaacChaverri\IA\CrearGrafo\bin\Debug\netcoreapp2.1\CrearGrafo.pdb
+E:\IA\IsaacChaverri\IA\CrearGrafo\obj\Debug\netcoreapp2.1\CrearGrafo.csprojAssemblyReference.cache
+E:\IA\IsaacChaverri\IA\CrearGrafo\obj\Debug\netcoreapp2.1\CrearGrafo.csproj.CoreCompileInputs.cache
+E:\IA\IsaacChaverri\IA\CrearGrafo\obj\Debug\netcoreapp2.1\CrearGrafo.AssemblyInfoInputs.cache
+E:\IA\IsaacChaverri\IA\CrearGrafo\obj\Debug\netcoreapp2.1\CrearGrafo.AssemblyInfo.cs
+E:\IA\IsaacChaverri\IA\CrearGrafo\obj\Debug\netcoreapp2.1\CrearGrafo.dll
+E:\IA\IsaacChaverri\IA\CrearGrafo\obj\Debug\netcoreapp2.1\CrearGrafo.pdb

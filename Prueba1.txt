@@ -40,3 +40,4 @@ Coronado:5
 Pavas:11
 Paraiso:5
 Turrialba:16
+TEC:0

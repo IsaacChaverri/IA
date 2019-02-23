@@ -516,10 +516,11 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.1.0": {
-      "sha512": "TT+QCi9LcxGTjBssH7S7n5+8DVcwfG4DYgXX7Dk7+BfZ4oVHj8Q0CbYk9glzAlHLsSt3bYzol+fOdra2iu6GOw==",
+      "sha512": "GmkKfoyerqmsHMn7OZj0AKpcBabD+GaafqphvX2Mw406IwiJRy1pKcKqdCfKJfYmkRyJ6+e+RaUylgdJoDa1jQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -681,23 +682,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Isaac\\.nuget\\packages\\": {},
+    "C:\\Users\\mcv26\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Isaac\\Desktop\\Cosas-De-La-U\\Semestre XIII\\Inteligencia Artificial\\Tareas\\Tareas 3 y 4\\IA\\CrearGrafo\\CrearGrafo.csproj",
+      "projectUniqueName": "E:\\IA\\IsaacChaverri\\IA\\CrearGrafo\\CrearGrafo.csproj",
       "projectName": "CrearGrafo",
-      "projectPath": "C:\\Users\\Isaac\\Desktop\\Cosas-De-La-U\\Semestre XIII\\Inteligencia Artificial\\Tareas\\Tareas 3 y 4\\IA\\CrearGrafo\\CrearGrafo.csproj",
-      "packagesPath": "C:\\Users\\Isaac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Isaac\\Desktop\\Cosas-De-La-U\\Semestre XIII\\Inteligencia Artificial\\Tareas\\Tareas 3 y 4\\IA\\CrearGrafo\\obj\\",
+      "projectPath": "E:\\IA\\IsaacChaverri\\IA\\CrearGrafo\\CrearGrafo.csproj",
+      "packagesPath": "C:\\Users\\mcv26\\.nuget\\packages\\",
+      "outputPath": "E:\\IA\\IsaacChaverri\\IA\\CrearGrafo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Isaac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mcv26\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
