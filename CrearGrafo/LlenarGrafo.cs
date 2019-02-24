@@ -17,7 +17,7 @@ namespace CrearGrafo
             AristasGlobales = new List<Arista>();
             Heuristica = new Dictionary<string, int>();
             listaRecorrido = new List<ObjetoCamino>();
-            ReadFile();          
+            ReadFile();
             ImprimirGrafo(Grafo);
         }
 
@@ -52,17 +52,19 @@ namespace CrearGrafo
             foreach (KeyValuePair<string, int> Item in Heuristica)
                 Console.WriteLine(Item.Key + ":" + Heuristica[Item.Key]);
 
-            MeteVecinos(BuscaNodo("Cartago"), BuscaNodo("TEC")); /* Metodo prueba*/
+
+
+            AEstrella(BuscaNodo("Paraiso"), BuscaNodo("TEC")); /* Metodo prueba*/
 
             char i = Console.ReadKey().KeyChar;
         }
 
         public void ReadFile()
         {
-            string[] lines = System.IO.File.ReadAllLines(@"E:\IA\IsaacChaverri\IA\Prueba1.txt");
+            string[] lines = System.IO.File.ReadAllLines(@"C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\IA\Prueba1.txt");
             foreach (string line in lines)
             {
-                string[] linea = line.Split(new Char[] { ',',':', ' ' });
+                string[] linea = line.Split(new Char[] { ',', ':', ' ' });
                 switch (linea.Length)
                 {
                     case 1:
@@ -87,80 +89,62 @@ namespace CrearGrafo
                 }
             }
         }
-
-        public void MeteVecinos(Nodo nodoInicio, Nodo nodoFinal)
+        //----------------------------------------------------------------------------------------------//        
+        public List<String> AEstrella(Nodo nodoInicio, Nodo nodoFinal)
         {
-            ObjetoCamino temp = null;
             ObjetoCamino objetoPivote = null;
-            if (listaRecorrido.Count == 0)
+            Console.WriteLine(listaRecorrido.Count);
+            MeteVecinosOrig(nodoInicio);
+
+            while (true)
             {
-                Console.WriteLine(listaRecorrido.Count);
-                foreach (Arista arista in nodoInicio.Aristas)
-                {
-                    temp = new ObjetoCamino();
-                    temp.nombre = arista.destino.Nombre;
-                    temp.value = arista.peso + Heuristica[arista.destino.Nombre];
-                    temp.ruta.Add(arista.partida.Nombre);
-                    listaRecorrido.Add(temp);
-                }
-            }
-            else
-            {
-                
+                objetoPivote = listaRecorrido[0];
                 foreach (ObjetoCamino obj in listaRecorrido)
                 {
-                    if (obj.nombre.Equals(nodoInicio.Nombre))
+                    if (obj.value < objetoPivote.value)
                     {
-                        objetoPivote = obj;
-                    }
+                        objetoPivote = obj;                        
+                    }    
+                }
+                if (objetoPivote.nombre == nodoFinal.Nombre)
+                {
+                    objetoPivote.ruta.Add(nodoFinal.Nombre);
+                    foreach (string nodo in objetoPivote.ruta)
+                        Console.Write(nodo + "-");
+                    return objetoPivote.ruta;
                 }
                 listaRecorrido.Remove(objetoPivote);
-                foreach (Arista arista in nodoInicio.Aristas)
-                {
-                    temp = new ObjetoCamino();
-                    temp.nombre = arista.destino.Nombre;
-                    temp.value = arista.peso + Heuristica[arista.destino.Nombre] + objetoPivote.value;
-                    temp.ruta = objetoPivote.ruta;
-                    temp.ruta.Add(arista.partida.Nombre);
-                    listaRecorrido.Add(temp);
-                }
-            }
-            int pivote = int.MaxValue;
-            foreach (ObjetoCamino obj in listaRecorrido)
-            {
-                if (objetoPivote != null)
-                {
-                    if (obj.value <= pivote && objetoPivote.nombre.Equals(obj.ruta[obj.ruta.Count - 1]))
-                    {
-                        pivote = obj.value;
-                        temp = obj;
-                    }
-                }
-                else
-                {
-                    if (obj.value <= pivote)
-                    {
-                        pivote = obj.value;
-                        temp = obj;
-                    }
-                }
-            }
+                MeteVecinosEnLista(objetoPivote);
+            } 
+        }
 
-            Console.WriteLine("Temporal: " + temp.nombre + " Final: " + nodoFinal.Nombre + "\n");
-            if (!temp.nombre.Equals(nodoFinal.Nombre))
+
+
+        public void MeteVecinosOrig(Nodo nodo)
+        {
+            ObjetoCamino temp = null;
+            foreach (Arista arista in nodo.Aristas)
             {
-                Nodo tempo = BuscaNodo(temp.nombre);
-                
-                MeteVecinos(tempo, nodoFinal);
-                Console.WriteLine(tempo.Nombre);
+                temp = new ObjetoCamino();
+                temp.nombre = arista.destino.Nombre;
+                temp.value = arista.peso + Heuristica[arista.destino.Nombre];
+                temp.ruta.Add(arista.partida.Nombre);
+                listaRecorrido.Add(temp);
             }
         }
-    }
 
-    class ObjetoCamino
-    {
-        public String nombre { set; get; }
-        public int value { set; get; }
-        public List<String> ruta = new List<String>();
+        public void MeteVecinosEnLista(ObjetoCamino ObjCamino)
+        {
+            ObjetoCamino temp = null;
+            foreach (Arista arista in BuscaNodo(ObjCamino.nombre).Aristas)
+            {
+                temp = new ObjetoCamino();
+                temp.nombre = arista.destino.Nombre;
+                temp.value = arista.peso + Heuristica[arista.destino.Nombre] + ObjCamino.value;
+                temp.ruta.AddRange(ObjCamino.ruta);
+                temp.ruta.Add(arista.partida.Nombre);
+                listaRecorrido.Add(temp);
+            }
+        }
     }
 }
