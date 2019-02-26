@@ -1,0 +1,34 @@
+E:\IA\GrafoAEstrella\GrafoAEstrella\bin\Debug\GrafoAEstrella.exe.config
+E:\IA\GrafoAEstrella\GrafoAEstrella\bin\Debug\GrafoAEstrella.exe
+E:\IA\GrafoAEstrella\GrafoAEstrella\bin\Debug\GrafoAEstrella.pdb
+E:\IA\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.csprojAssemblyReference.cache
+E:\IA\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.Properties.Resources.resources
+E:\IA\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.csproj.GenerateResource.cache
+E:\IA\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.csproj.CoreCompileInputs.cache
+E:\IA\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.exe
+E:\IA\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.pdb
+E:\IA\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.Vertice.resources
+E:\IA\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.Simulador.resources
+E:\IA\MaoEl26\GrafoAEstrella\GrafoAEstrella\GrafoAEstrella\bin\Debug\GrafoAEstrella.exe.config
+E:\IA\MaoEl26\GrafoAEstrella\GrafoAEstrella\GrafoAEstrella\bin\Debug\GrafoAEstrella.exe
+E:\IA\MaoEl26\GrafoAEstrella\GrafoAEstrella\GrafoAEstrella\bin\Debug\GrafoAEstrella.pdb
+E:\IA\MaoEl26\GrafoAEstrella\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.csprojAssemblyReference.cache
+E:\IA\MaoEl26\GrafoAEstrella\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.Vertice.resources
+E:\IA\MaoEl26\GrafoAEstrella\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.Properties.Resources.resources
+E:\IA\MaoEl26\GrafoAEstrella\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.Simulador.resources
+E:\IA\MaoEl26\GrafoAEstrella\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.csproj.GenerateResource.cache
+E:\IA\MaoEl26\GrafoAEstrella\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.csproj.CoreCompileInputs.cache
+E:\IA\MaoEl26\GrafoAEstrella\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.exe
+E:\IA\MaoEl26\GrafoAEstrella\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.pdb
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\GUI\GrafoAEstrella\GrafoAEstrella\bin\Debug\GrafoAEstrella.exe.config
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\GUI\GrafoAEstrella\GrafoAEstrella\bin\Debug\GrafoAEstrella.exe
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\GUI\GrafoAEstrella\GrafoAEstrella\bin\Debug\GrafoAEstrella.pdb
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\GUI\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.csprojAssemblyReference.cache
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\GUI\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.Vertice.resources
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\GUI\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.Properties.Resources.resources
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\GUI\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.Simulador.resources
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\GUI\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.csproj.GenerateResource.cache
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\GUI\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\GUI\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.exe
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\GUI\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.pdb
+C:\Users\Isaac\Desktop\Cosas-De-La-U\Semestre XIII\Inteligencia Artificial\Tareas\Tareas 3 y 4\GUI\GrafoAEstrella\GrafoAEstrella\obj\Debug\GrafoAEstrella.Inicio.resources
